@@ -1,0 +1,62 @@
+﻿<Window x:Class="MiniPOS.CashPaymentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Thanh toán tiền mặt"
+        Height="540" Width="520"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Background="#FFF8F8">
+    <Grid>
+        <Border Margin="20"
+                Background="White"
+                BorderBrush="#F0D0D0"
+                BorderThickness="1"
+                CornerRadius="16">
+            <StackPanel Margin="25">
+                <TextBlock x:Name="txtTotal"
+                           FontSize="25"
+                           FontWeight="Bold"
+                           Foreground="#B71C1C"/>
+
+                <TextBlock Text="Nhập tiền khách đưa"
+                           Margin="0,22,0,8"
+                           FontSize="15"
+                           FontWeight="SemiBold"/>
+
+                <TextBox x:Name="txtCash"
+                         Height="42"
+                         FontSize="16"
+                         Padding="10,8"
+                         TextChanged="txtCash_TextChanged"/>
+
+                <TextBlock x:Name="txtChange"
+                           Margin="0,16,0,16"
+                           Text="Tiền dư: 0 đ"
+                           FontSize="19"
+                           FontWeight="Bold"
+                           Foreground="#D32F2F"/>
+
+                <UniformGrid Columns="3" Rows="3" Margin="0,0,0,16">
+                    <Button Content="1k" Margin="5" Height="40" Click="Denomination_Click"/>
+                    <Button Content="2k" Margin="5" Height="40" Click="Denomination_Click"/>
+                    <Button Content="5k" Margin="5" Height="40" Click="Denomination_Click"/>
+                    <Button Content="10k" Margin="5" Height="40" Click="Denomination_Click"/>
+                    <Button Content="20k" Margin="5" Height="40" Click="Denomination_Click"/>
+                    <Button Content="50k" Margin="5" Height="40" Click="Denomination_Click"/>
+                    <Button Content="100k" Margin="5" Height="40" Click="Denomination_Click"/>
+                    <Button Content="200k" Margin="5" Height="40" Click="Denomination_Click"/>
+                    <Button Content="500k" Margin="5" Height="40" Click="Denomination_Click"/>
+                </UniformGrid>
+
+                <Button Content="Thanh toán"
+                        Height="48"
+                        Background="#C62828"
+                        Foreground="White"
+                        FontWeight="Bold"
+                        FontSize="16"
+                        BorderThickness="0"
+                        Click="Pay_Click"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

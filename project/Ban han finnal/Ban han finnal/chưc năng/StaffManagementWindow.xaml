@@ -1,0 +1,30 @@
+﻿<Window x:Class="MiniPOS.StaffManagementWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Quản lý nhân viên"
+        Height="430" Width="650"
+        WindowStartupLocation="CenterScreen"
+        Background="#FFF8F8">
+    <Grid>
+        <Border Margin="20" Background="White" CornerRadius="16" BorderBrush="#F0D0D0" BorderThickness="1">
+            <DockPanel Margin="20">
+                <TextBlock DockPanel.Dock="Top"
+                           Text="Quản lý nhân viên"
+                           FontSize="26"
+                           FontWeight="Bold"
+                           Foreground="#B71C1C"
+                           Margin="0,0,0,15"/>
+
+                <ListView x:Name="lvStaff">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Mã NV" Width="140" DisplayMemberBinding="{Binding Code}"/>
+                            <GridViewColumn Header="Tên nhân viên" Width="220" DisplayMemberBinding="{Binding Name}"/>
+                            <GridViewColumn Header="Vai trò" Width="180" DisplayMemberBinding="{Binding Role}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </DockPanel>
+        </Border>
+    </Grid>
+</Window>

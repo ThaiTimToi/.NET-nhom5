@@ -1,0 +1,39 @@
+A:\source\Ban han finnal\Ban han finnal\bin\Debug\Ban han finnal.exe.config
+A:\source\Ban han finnal\Ban han finnal\bin\Debug\Ban han finnal.exe
+A:\source\Ban han finnal\Ban han finnal\bin\Debug\Ban han finnal.pdb
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\Ban han finnal.csproj.AssemblyReference.cache
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\LoginWindow.baml
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\MainWindow.baml
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\LoginWindow.g.cs
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\MainWindow.g.cs
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\App.g.cs
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\Ban han finnal_MarkupCompile.cache
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\Ban han finnal.g.resources
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\Ban_han_finnal.Properties.Resources.resources
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\Ban han finnal.csproj.GenerateResource.cache
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\Ban han finnal.csproj.CoreCompileInputs.cache
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\Ban han finnal.exe
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\Ban han finnal.pdb
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\Ban han finnal.exe.config
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\CashPaymentWindow.baml
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\TransferPaymentWindow.baml
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\CashPaymentWindow.g.cs
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\TransferPaymentWindow.g.cs
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\PaymentChoiceWindow.baml
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\PaymentChoiceWindow.g.cs
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\FeatureWindow.baml
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\FeatureWindow.g.cs
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\chưc năng\AddProductWindow.baml
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\chưc năng\PosSettingWindow.baml
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\chưc năng\PromotionWindow.baml
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\chưc năng\RevenueWindow.baml
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\chưc năng\StaffManagementWindow.baml
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\chưc năng\StockWindow.baml
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\chưc năng\TransactionHistoryWindow.baml
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\chưc năng\AddProductWindow.g.cs
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\chưc năng\PosSettingWindow.g.cs
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\chưc năng\PromotionWindow.g.cs
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\chưc năng\RevenueWindow.g.cs
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\chưc năng\StaffManagementWindow.g.cs
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\chưc năng\StockWindow.g.cs
+A:\source\Ban han finnal\Ban han finnal\obj\Debug\chưc năng\TransactionHistoryWindow.g.cs
